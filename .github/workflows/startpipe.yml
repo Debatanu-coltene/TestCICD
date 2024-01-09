@@ -28,7 +28,7 @@ jobs:
 
       -  name:  Run a local Python file
          run: |
-              run: python ${{ env.DEVOPS_DIR }}\\C:\\Users\\bhde\\Desktop\\AutomationCode\\PythonScripts\\First.py
+              run: python First.py
          
             # python C:\\Users\\bhde\\Desktop\\AutomationCode\\PythonScripts\\First.py
 
