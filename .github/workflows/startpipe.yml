@@ -25,3 +25,10 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+
+      -  name:  Run a local Python file
+         run: |
+            python C:\Users\bhde\Desktop\AutomationCode\PythonScripts\First.py
+
+
+          
