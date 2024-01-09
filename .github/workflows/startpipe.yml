@@ -28,7 +28,7 @@ jobs:
 
       -  name:  Run a local Python file
          run: |
-            python C:\Users\bhde\Desktop\AutomationCode\PythonScripts\First.py
+            python C:\\Users\\bhde\\Desktop\\AutomationCode\\PythonScripts\\First.py
 
 
           
